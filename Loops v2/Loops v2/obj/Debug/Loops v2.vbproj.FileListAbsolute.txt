@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\bin\Debug\Loops v2.exe.config
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\bin\Debug\Loops v2.exe
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\bin\Debug\Loops v2.pdb
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\bin\Debug\Loops v2.xml
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops v2.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops_v2.Form1.resources
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops_v2.Resources.resources
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops v2.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops v2.exe
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops v2.xml
+C:\Users\CCLC\Documents\Ani\Loops v2\Loops v2\obj\Debug\Loops v2.pdb
